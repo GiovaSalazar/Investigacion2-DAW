@@ -1,0 +1,16 @@
+{
+  "name": "investigacion2",
+  "version": "1.0.0",
+  "description": "Primera API REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["API", "REST"],
+  "author": "Giovanni Salazar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
